@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Oop task 4.iml" filepath="$PROJECT_DIR$/.idea/Oop task 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ug.gov.business/ug.gov.business.iml" filepath="$PROJECT_DIR$/ug.gov.business/ug.gov.business.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ug.gov.nira/ug.gov.nira.iml" filepath="$PROJECT_DIR$/ug.gov.nira/ug.gov.nira.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ug.gov.passport/ug.gov.passport.iml" filepath="$PROJECT_DIR$/ug.gov.passport/ug.gov.passport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ug.gov.portal/ug.gov.portal.iml" filepath="$PROJECT_DIR$/ug.gov.portal/ug.gov.portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ug.gov.tax/ug.gov.tax.iml" filepath="$PROJECT_DIR$/ug.gov.tax/ug.gov.tax.iml" />
+    </modules>
+  </component>
+</project>
