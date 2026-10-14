@@ -5,3 +5,4 @@ public class TaxService {
         System.out.println("[Tax Module - URA] Processed tax payment of UGX " + record.getAmount() + " for NIN: " + record.getNin());
     }
 }
+//Initializing Tax service operations
