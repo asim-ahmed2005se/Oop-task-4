@@ -5,3 +5,4 @@ public class BusinessService {
         System.out.println("[Business Module - URSB] Successfully registered '" + businessName + "' for owner NIN: " + ownerNin);
     }
 }
+//URSB business registration handler
